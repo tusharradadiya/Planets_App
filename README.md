@@ -1,16 +1,11 @@
 # animator
 
-A new Flutter project.
 
-## Getting Started
+<p float="center>
+          
+<img src="https://user-images.githubusercontent.com/113609040/210040596-19a974e5-a1c9-4da7-a54e-a68404ed17e0.png" width=22% height=35%>
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/113609040/224112094-af5419fb-151e-4b75-b709-bc945d9996c2.gif" width=22% height=35%>
+                                                                                                                 
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
